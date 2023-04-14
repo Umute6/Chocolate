@@ -3,7 +3,7 @@ from random import randint
 #sequence_lenght = 3
 
 numbers = range(1, 7)
-
+a = b 
 sequence = []
 
 #if sequence == sequence:
@@ -20,7 +20,7 @@ if i != numbers[i]:
 
 
 print(sequence)
-
+print(a)
 
 
 
